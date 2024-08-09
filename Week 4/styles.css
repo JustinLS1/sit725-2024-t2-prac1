@@ -1,0 +1,74 @@
+nav {
+  background-color: skyblue;
+}
+.nav-wrapper a {
+    color: black;
+}
+body {
+    background-color: beige;
+}
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    color: navy;
+}
+h5{
+    text-align: center;
+    color: darkorchid;
+    padding: 10px;
+    margin: 20px;
+}
+h6{
+    text-align: center;  
+    color: black;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 1700px;
+}
+.card{
+    text-align:center;
+    flex: 1;
+}
+.modal-trigger {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+.modal-content{
+    text-align: center;
+}
+.modal-content h4{
+    color: navy;
+    margin-bottom: 20px;
+}
+.modal-content p{
+    color: darkolivegreen;
+}
+.modal-close{
+    color: red;
+}
+.pagination{
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: -5px;
+}
+.pagination li{
+    color: purple;
+}
+.page-footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: skyblue;
+}
+footer p{
+    text-align: center;
+    color:black;
+}
+.idfooter{
+    color: purple;
+}
