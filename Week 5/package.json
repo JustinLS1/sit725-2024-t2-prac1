@@ -1,0 +1,22 @@
+{
+  "name": "week-5",
+  "version": "1.0.0",
+  "description": "sit 725 T2 week 5 prac",
+  "main": "website.html",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/JustinLS1/sit725-2024-t2-prac1"
+  },
+  "author": "Justin Leonard Sutanto",
+  "license": "ISC",
+  "bugs": {
+  "url": "https://github.com/JustinLS1/sit725-2024-t2-prac1/issues"
+  },
+  "homepage": "https://github.com/JustinLS1/sit725-2024-t2-prac1#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
